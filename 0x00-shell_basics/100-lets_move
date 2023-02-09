@@ -1,2 +1,2 @@
 #!/bin/bash
-files=$(find . -maxdepth 1 -type f -name '[A-Z]*') for file in files do  mv $files /tmp/u done
+mv [[:upper:]]* /tmp/u
